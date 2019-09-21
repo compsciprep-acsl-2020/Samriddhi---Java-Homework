@@ -13,5 +13,7 @@ public class decimalToBinary {
         fin = "1" + fin;
         System.out.println(fin);
 
+        //String finString = Integer.toBinaryString(num);
+
     }
 }
