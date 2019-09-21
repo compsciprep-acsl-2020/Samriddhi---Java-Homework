@@ -11,6 +11,5 @@ public class decimalToBinary {
         fin = "1" + fin;
         System.out.println(fin);
 
-
     }
 }
